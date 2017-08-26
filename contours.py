@@ -2,7 +2,7 @@
 """
 Created on Sat Oct  1 20:07:18 2016
 
-@author: 刘凯鉴
+@author: lkj
 """
 
 import cv2
